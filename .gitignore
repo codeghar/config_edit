@@ -1,0 +1,8 @@
+*.log
+*.pyc
+.cache/
+.eggs/
+.idea/
+.tox/
+dist/
+config_edit.egg-info/
